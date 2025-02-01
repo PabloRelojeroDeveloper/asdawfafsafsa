@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+	  "layer0": "dtools3:custom/items/hearts/normal_heart"
+	}
+}

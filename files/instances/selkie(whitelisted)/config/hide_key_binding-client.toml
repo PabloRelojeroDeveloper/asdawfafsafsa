@@ -1,0 +1,4 @@
+#Key bindings listed here will be hidden from the key bindings menu.
+#Use this to hide key bindings that are not used by the player.
+hide_key_bindings = ["key.clearPoint", "key.cpm.qa_2", "key.cpm.qa_3", "key.cpm.qa_4", "key.cpm.qa_5", "key.cpm.qa_6", "key.cpm.qa_7", "key.cpm.qa_8", "key.startStop", "key.cpm.qa_9", "key.centerzoom", "key.rollright", "key.spectatorOutlines", "key.cpm.qa_12", "key.zoomin", "key.cpm.qa_11", "key.cpm.qa_10", "key.dynamic_fps.toggle_disabled", "key.zoomout", "key.cpm.qa_16", "key.cpm.qa_15", "key.cpm.qa_14", "key.cpm.renderToggle", "key.cpm.qa_13", "key.rollcenter", "key.loadToolbarActivator", "key.rollleft", "key.cpm.qa_1", "key.saveToolbarActivator", "key.cpm.gestureMenu"]
+

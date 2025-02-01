@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+	  "layer0": "dtools3:custom/items/swords/healing_infernal_sword"
+	}
+}

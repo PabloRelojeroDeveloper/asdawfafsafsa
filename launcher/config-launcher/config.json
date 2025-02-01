@@ -1,0 +1,8 @@
+{
+    "maintenance": false,
+    "maintenance_message": "Lo sentimos, el launcher actualmente se encuentra en mantenimiento, porfavor volve pronto",
+    "online": true,
+    "java": true,
+    "client_id": "13f589e1-e2fc-443e-a68a-63b0092b8eeb",
+    "dataDirectory": "pablolauncher"
+}

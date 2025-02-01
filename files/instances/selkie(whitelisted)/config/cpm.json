@@ -1,0 +1,26 @@
+{
+  "editorLastVersion": "0.6.19b",
+  "titleScreenButton": true,
+  "playerSettings": {},
+  "globalSettings": {},
+  "friendSettings": {},
+  "blockedList": {},
+  "safetyProfiles": {},
+  "editorRecentProjects": [
+    "C:\\Users\\pablo\\AppData\\Roaming\\ModrinthApp\\profiles\\Server con subs selkie\\emotes\\Guardia_Calamar.cpmproject",
+    "C:\\Users\\pablo\\AppData\\Roaming\\ModrinthApp\\profiles\\Server con subs selkie\\emotes\\Guardia_ender.cpmproject",
+    "C:\\Users\\pablo\\AppData\\Roaming\\ModrinthApp\\profiles\\Server con subs selkie\\emotes\\Gojo23.cpmproject",
+    "C:\\Users\\pablo\\Desktop\\muñecasquid.cpmproject",
+    "C:\\Users\\pablo\\Desktop\\nutriaia.cpmproject"
+  ],
+  "friendList": {},
+  "serverSettings": {
+    "localhost": {}
+  },
+  "showIngameWarnings": false,
+  "keybinds": {},
+  "editorSelectMouseButton": 0.0,
+  "editorMenuMouseButton": 1.0,
+  "editorRotateMouseButton": 2.0,
+  "editorDragMouseButton": -1.0
+}

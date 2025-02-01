@@ -1,0 +1,188 @@
+{"providers":[
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/admin.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"阿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/builder.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"贝"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/developer.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"色"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/developer.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"德"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/elite.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"饿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/helper.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"德"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/hero.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"弗"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/legend.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"日"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/megavip.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"阿"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/mod.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"什"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/mod.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"伊"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/owner.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"鸡"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/tutorial.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"卡"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/twitch.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"艾"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/ultravip.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"勒"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/vip.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"贼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/vip1.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"维"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/vipplus.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"苦"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:prefijos/youtube.png",
+			"height": 9,
+			"ascent": 9,
+			"chars": [
+				"克斯"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "dtools3:custom/roulette/little/little_roulette.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uEA9C"]
+		},
+		{
+			"type": "bitmap",
+			"file": "dtools3:custom/roulette/little/little_roulette_off.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["\uEA9D"]
+		}
+]
+}
