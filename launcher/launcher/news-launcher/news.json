@@ -1,8 +1,9 @@
 [
     {
         "title": "ULTIMA ACTUALIZACION",
-        "content": "Se agrego la funcionalidad de presencia de discord, con la opcion para descargar junto la opcion para unirse al servidor de discord de Selkie. Tambien se ha implementado la auto-actualizacion sobre las updates del launcher que se enviaran automaticamente al discord en formato del mesnaje que estas viendo.",
+        "content": "Se soluciono el error de undefinied, se sigue persistiendo el error de ´descargando NaN%´, pero se soluciona reiniciando el client.",
         "author": "@PabloRelojero",
-        "publish_date": "30-1-25"
+        "link": "x.com/pablorelojero",
+        "publish_date": "1-2-25"
     }
 ]
